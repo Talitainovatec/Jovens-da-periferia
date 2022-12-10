@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+Especificar os integrantes do grupo e suas funções:
 - Alison Matheus Feliz , Caian Mouzer de Santana Oliveira, Rosymery Soares Loiola (Gestão Executiva);
 - Talita Gislane Garcia launé, Itamires Martins Silva, Isabelle Cristina Alver Lourenço (Gestão Operacional);
 - Aline de Almeida de Cerqueira, Natielhy Stefany de Freitas, Maraisa conceição Cerqueira (Gestão de Marketing);
