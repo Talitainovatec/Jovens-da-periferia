@@ -6,17 +6,12 @@ Especificar os integrantes do grupo e suas funções:
 - Alison Matheus Feliz , Caian Mouzer de Santana Oliveira, Rosymery Soares Loiola (Gestão Executiva);
 - Talita Gislane Garcia launé, Itamires Martins Silva, Isabelle Cristina Alver Lourenço (Gestão Operacional);
 - Aline de Almeida de Cerqueira, Natielhy Stefany de Freitas, Maraisa conceição Cerqueira (Gestão de Marketing);
-## Passos
+## Slides do projeto 
+https://docs.google.com/presentation/d/1e2tpVWS8UJq6GZb6tIU_ZTN_CWt1dcEG/edit?usp=sharing&ouid=104506326438951987525&rtpof=true&sd=true
 
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
-- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
-- 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
-- 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
 
 ## Pitch
+Itamires Martins  Silva  : apresentação inicial so bre o projeto 
+Isabelle Cristina Alver Lourenço  : apresentar sobre o  aplicativo Jovens da Periferia
+Talita Gislane : Idealização sobre a Feira preta 
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
-
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
