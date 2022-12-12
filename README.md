@@ -12,6 +12,8 @@ https://docs.google.com/presentation/d/1e2tpVWS8UJq6GZb6tIU_ZTN_CWt1dcEG/edit?us
 
 ## Pitch
 -Itamires Martins  Silva  : apresentação inicial sobre o projeto 
+
 -Isabelle Cristina Alver Lourenço  : apresentar sobre o  aplicativo Jovens da Periferia
+
 -Talita Gislane : Idealização sobre a Feira preta 
 
